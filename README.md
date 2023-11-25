@@ -9,3 +9,7 @@ Choć dopiero stawiam pierwsze kroki w programowaniu, moja determinacja i ciekaw
 Czuję, że programowanie to nie tylko umiejętność, ale także sposób myślenia i kreatywnego rozwiązywania problemów. Wspólnie odkrywajmy ten niezwykły świat, dzieląc się doświadczeniami, poradami i inspirując się nawzajem do coraz to nowych projektów.
 
 Zapraszam Cię do śledzenia mojej drogi w świecie kodu. Razem możemy stworzyć coś wyjątkowego i zgłębiać tajemnice programowania!
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
